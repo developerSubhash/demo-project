@@ -1,1 +1,4 @@
-This is file and repo was created for practicing uploading repo to git hub from scratch.
+This is file and repo was created for practicing uploading repo to git hub from scratch. 
+
+and this is second time I will try to make some changes in the file and try to snysc my 
+uploaded repo to my local repo.
